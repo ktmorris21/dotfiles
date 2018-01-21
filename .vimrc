@@ -1,5 +1,5 @@
 " To install Vundle: git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-
+" To install powerline symbols: sudo apt install fonts-powerline
 " After you have vundle setup, run :PluginInstall to install the other plugins
 " After it's done, exit and restart Vim
 
